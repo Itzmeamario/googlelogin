@@ -1,8 +1,7 @@
-
 const controller = {
   role: {
     get: (req, res) => {
-      console.log('hi');
+      console.log('hi from controller');
     }
   }
 }
